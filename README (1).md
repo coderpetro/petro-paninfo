@@ -1,6 +1,6 @@
 # PAN Verification API
 
-Developer: Abhay Singh
+Developer: goten petro
 
 ## Features
 
