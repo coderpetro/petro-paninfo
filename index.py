@@ -10,7 +10,7 @@ CORS(app)
 # ==========================================
 # Developer Info
 # ==========================================
-DEVELOPER = "Abhay Singh"
+DEVELOPER = "petro"
 
 # ==========================================
 # Access Token
@@ -221,7 +221,7 @@ if __name__ == "__main__":
     print("=" * 60)
     print(" PAN Verification API ")
     print("=" * 60)
-    print(" Developer : Abhay Singh ")
+    print(" Developer : petro ")
     print("=" * 60)
 
     app.run(
